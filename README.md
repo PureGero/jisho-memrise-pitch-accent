@@ -3,7 +3,7 @@ Jisho-OJAD
 
 This browser extension adds inline pitch accent notation for Jisho.
 
-The data is queried on the fly from the [OJAD](http://www.gavo.t.u-tokyo.ac.jp/ojad/) database.
+The data comes from a copy of the [WaDokuJT source data](https://github.com/WaDoku/WaDokuJT-Data).
 
 ![Screenshot](screenshots/screenshot1.png)
 
@@ -11,12 +11,6 @@ The data is queried on the fly from the [OJAD](http://www.gavo.t.u-tokyo.ac.jp/o
 
 Installation
 ------------
-
-### Automatic
-
-Chrome: Jisho-OJAD can be installed from [Chrome Web Store](https://chrome.google.com/webstore/detail/jisho-ojad/dpaojegkimhndjkkgiaookhckojbmakd).
-
-Firefox: Jisho-OJAD can be installed from the [Mozilla website](https://addons.mozilla.org/en-US/firefox/addon/jisho-ojad).
 
 ### Manual - Chrome
 
