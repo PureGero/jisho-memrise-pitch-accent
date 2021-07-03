@@ -1,5 +1,5 @@
-Jisho-OJAD
-==========
+Jisho Pitch Accent
+==================
 
 This browser extension adds inline pitch accent notation for Jisho.
 
