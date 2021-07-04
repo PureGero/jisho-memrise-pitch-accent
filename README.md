@@ -1,7 +1,7 @@
-Jisho Pitch Accent
-==================
+Jisho and Memrise Pitch Accent
+==============================
 
-This browser extension adds inline pitch accent notation for Jisho.
+This browser extension adds inline pitch accent notation for Jisho and Memrise.
 
 The data comes from a copy of the [WaDokuJT source data](https://github.com/WaDoku/WaDokuJT-Data).
 
